@@ -1,4 +1,3 @@
-# Terminal Style Portfolio Page
+# Terminal Style Portfolio Web
 
-Site simulando um terminal feito com Javascript, Html e Css.
 #### https://t1w.netlify.app/
