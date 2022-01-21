@@ -1,7 +1,7 @@
 # Terminal Style Portfolio Page
 
 Site simulando um terminal feito com Javascript, Html e Css.
-#### https://heberleonard2.github.io/terminal-style-portfolio-page/
+#### https://t1w.netlify.app/
 
 ![](https://user-images.githubusercontent.com/51919658/86963051-477f2400-c13a-11ea-9d34-22885d426c10.gif)
 
